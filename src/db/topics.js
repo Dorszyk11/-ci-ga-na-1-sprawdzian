@@ -8,7 +8,7 @@ export const Topics = [
   },
   {
     id: 2,
-    temat: "Anglia w XVI x.",
+    temat: "omówienie",
     opis:`kalwiniści dla nich się liczyła praca dzięki czemu np w polsce stan finansowy się o wiele poprawił od momentu wejścia tego wyznania
     dzięki chrzestu moożna odtwarzać drzewa genealogiczne
     jezuici przez 200 lat są supciu dupcio wszyscy ich lubią i wgl ale żeby zostać jezuitą trzeba mieć studia
